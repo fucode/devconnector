@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://faraz123:faraz123@devconnector-fhthi.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "c18519e3f5d69e08b337",
+  "githubSecret": "c71b67ccc3f9dd351dc053338af763a180e1efde"
 }
